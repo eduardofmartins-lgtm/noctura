@@ -1,0 +1,3 @@
+[build]
+  publish = "noctura"
+  functions = "netlify/functions"
