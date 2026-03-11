@@ -1,0 +1,3 @@
+[build]
+  publish = "Nocturna"
+  functions = "Nocturna/netlify/functions"
